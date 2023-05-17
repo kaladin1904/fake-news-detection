@@ -24,8 +24,12 @@ Train Loss |0.6440 |0.5785 |0.6472|
 Test Loss	|0.6445	|0.6348	|0.6185|
 
 
-### Kindly make the following change to run the codes - 
-In code block 4, kindly add the paths to data according to where you save it on your system/drive.
+### Kindly make the following changes to run the codes - 
+In code block 4 of both files, kindly add the paths to data according to where you save it on your system/drive.
+
+Kindly use the dataset on this link - https://drive.google.com/drive/folders/1NQ1r66wbZ9fuJtwplW-RlfJvz3L0SVyb <br>
+ISOT - News-dataset fol<br>der<br>
+LIAR - data folder<br>
 
 ### Packages required to run the code - 
 1 numpy<br>
