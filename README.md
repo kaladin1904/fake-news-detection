@@ -28,7 +28,7 @@ Test Loss	|0.6445	|0.6348	|0.6185|
 In code block 4 of both files, kindly add the paths to data according to where you save it on your system/drive.
 
 Kindly use the dataset on this link - https://drive.google.com/drive/folders/1NQ1r66wbZ9fuJtwplW-RlfJvz3L0SVyb <br>
-ISOT - News-dataset fol<br>der<br>
+ISOT - News-dataset folder<br>
 LIAR - data folder<br>
 
 ### Packages required to run the code - 
